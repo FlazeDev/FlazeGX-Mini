@@ -27,5 +27,6 @@ https://github.com/wiredopposite/OGX-Mini
 |                |                            |           |              |Total INR                 |₹700.00    |
 |                |                            |           |              |Total USD                 |$7.70      |
 |                |                            |           |              |Costs are without Shipping|           |
+-----------------------------------------------------------------------------------------------------------------
 Heres the BOM, Its without shipping. The bom.csv file is in the BOM folder.
 
