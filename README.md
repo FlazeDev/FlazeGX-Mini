@@ -15,17 +15,17 @@ Uses the orginal OGX Mini's firmware.
 https://github.com/wiredopposite/OGX-Mini  
 
 ## BOM  
-FlazeGX Mini BOM,,,,,
-"S. No,",Name,Shop/link,Price Per Item,Quantity,Total Price
-1,Waveshare 2040 Zero,Robu.in,₹406.00,1,₹406.00
-2,Usb A Female Breakout Board,Robu.in,₹14.00,1,₹14.00
-3,Wires,Robu.in,₹13.00,1,₹13.00
-4,"Usb C to Usb A, Male to Male",Flipkart.in,₹267.00,1,₹267.00
-,,,,,
-,,,,,
-,,,,Total INR,₹700.00
-,,,,Total USD,$7.70
-,,,,Costs are without Shipping,
-[FlazeGX_BOM.csv](https://github.com/user-attachments/files/24633670/FlazeGX_BOM.csv)  
-Heres the BOM, Its without shipping.
+|FlazeGX Mini BOM|                            |           |              |                          |           |
+|----------------|----------------------------|-----------|--------------|--------------------------|-----------|
+|S. No,          |Name                        |Shop/link  |Price Per Item|Quantity                  |Total Price|
+|1               |Waveshare 2040 Zero         |Robu.in    |₹406.00       |1                         |₹406.00    |
+|2               |Usb A Female Breakout Board |Robu.in    |₹14.00        |1                         |₹14.00     |
+|3               |Wires                       |Robu.in    |₹13.00        |1                         |₹13.00     |
+|4               |Usb C to Usb A, Male to Male|Flipkart.in|₹267.00       |1                         |₹267.00    |
+|                |                            |           |              |                          |           |
+|                |                            |           |              |                          |           |
+|                |                            |           |              |Total INR                 |₹700.00    |
+|                |                            |           |              |Total USD                 |$7.70      |
+|                |                            |           |              |Costs are without Shipping|           |
+Heres the BOM, Its without shipping. The bom.csv file is in the BOM folder.
 
