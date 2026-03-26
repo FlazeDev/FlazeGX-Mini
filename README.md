@@ -18,10 +18,10 @@ https://github.com/wiredopposite/OGX-Mini
 |FlazeGX Mini BOM|                            |           |              |                          |           |
 |----------------|----------------------------|-----------|--------------|--------------------------|-----------|
 |S. No,          |Name                        |Shop/link  |Price Per Item|Quantity                  |Total Price|
-|1               |Waveshare 2040 Zero         |Robu.in    |₹406.00       |1                         |₹406.00    |
-|2               |Usb A Female Breakout Board |Robu.in    |₹14.00        |1                         |₹14.00     |
-|3               |Wires                       |Robu.in    |₹13.00        |1                         |₹13.00     |
-|4               |Usb C to Usb A, Male to Male|Flipkart.in|₹267.00       |1                         |₹267.00    |
+|1               |Waveshare 2040 Zero         |https://robu.in/product/waveshare-rp2040-zero-without-header/    |₹406.00       |1                         |₹406.00    |
+|2               |Usb A Female Breakout Board |https://robu.in/product/usb-female-to-2-54mm-breakout-board-with-direct-4p-adapter-board/ |₹14.00        |1                         |₹14.00     |
+|3               |Wires                       |https://robu.in/product/10-wire-male-to-female-jumper-wires-20cm/   |₹13.00        |1                         |₹13.00     |
+|4               |Usb C to Usb A, Male to Male|https://www.flipkart.com/etzin-male-to-male-usb-type-c-male-connector-3-0-adapter-epl-1069tc-charger/p/itm7692f811a5f16?pid=USGH4E8FMWKFBSAN&lid=LSTUSGH4E8FMWKFBSANS0DLZV&marketplace=FLIPKART|₹267.00       |1                         |₹267.00    |
 |                |                            |           |              |                          |           |
 |                |                            |           |              |                          |           |
 |                |                            |           |              |Total INR                 |₹700.00    |
